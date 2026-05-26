@@ -1,3 +1,4 @@
+
 import { useState, useEffect, useRef } from "react";
 
 const VEIKALI = ["DEPO","SANISTAL","KSENUKAI","STORENT","AKVEDUKTS","UPTK","KURŠI","Cits"];
